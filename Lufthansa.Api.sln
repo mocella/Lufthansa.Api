@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lufthansa.Api", "Lufthansa.Api\Lufthansa.Api.csproj", "{BD8A8B05-F137-477E-B5E3-D0FA7CD6FB5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lufthansa.Api.ClientExample", "Lufthansa.Api.ClientExample\Lufthansa.Api.ClientExample.csproj", "{487F8C5D-9EB5-4EEC-B6DE-EB4BABE2FBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD8A8B05-F137-477E-B5E3-D0FA7CD6FB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8A8B05-F137-477E-B5E3-D0FA7CD6FB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8A8B05-F137-477E-B5E3-D0FA7CD6FB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8A8B05-F137-477E-B5E3-D0FA7CD6FB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487F8C5D-9EB5-4EEC-B6DE-EB4BABE2FBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487F8C5D-9EB5-4EEC-B6DE-EB4BABE2FBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487F8C5D-9EB5-4EEC-B6DE-EB4BABE2FBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487F8C5D-9EB5-4EEC-B6DE-EB4BABE2FBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
